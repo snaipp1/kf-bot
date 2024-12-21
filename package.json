@@ -1,0 +1,19 @@
+{
+  "name": "kfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@grammyjs/hydrate": "^1.4.1",
+    "dotenv": "^16.4.7",
+    "grammy": "^1.33.0",
+    "nodemon": "^3.1.9"
+  }
+}
